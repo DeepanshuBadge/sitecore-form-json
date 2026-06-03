@@ -1,1 +1,14 @@
-[{ "value": "option1", "label": "Option 1" }, { "value": "option2", "label": "Option 2" }]
+[
+  {
+    "value": "Afghanistan",
+    "label": "Afghanistan"
+  },
+  {
+    "value": "Albania",
+    "label": "Albania"
+  },
+  {
+    "value": "Algeria",
+    "label": "Algeria"
+  }
+]
