@@ -1,14 +1,1 @@
-[
-  {
-    "value": "Afghanistan",
-    "label": "Afghanistan"
-  },
-  {
-    "value": "Albania",
-    "label": "Albania"
-  },
-  {
-    "value": "Algeria",
-    "label": "Algeria"
-  }
-]
+[{ value: 'Madagascar', label: 'MD' }, { value: 'Denmark', label: 'DA' }]
